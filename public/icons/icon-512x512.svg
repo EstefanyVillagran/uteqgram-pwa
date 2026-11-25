@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="UTEQGram icon">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ff6a00"/>
+      <stop offset="100%" stop-color="#3f51b5"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="110" fill="url(#g)"/>
+  <rect x="110" y="140" width="292" height="228" rx="52" fill="rgba(255,255,255,0.18)" stroke="white" stroke-width="15"/>
+  <circle cx="256" cy="250" r="62" fill="none" stroke="white" stroke-width="18"/>
+  <circle cx="256" cy="250" r="25" fill="white"/>
+  <path d="M194 128h124l26 44H168z" fill="white" opacity="0.9"/>
+  <path d="M158 366l68-76 48 48 82-108 56 136H158z" fill="rgba(255,255,255,0.8)"/>
+</svg>
